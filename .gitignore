@@ -2,6 +2,7 @@
 **/cert
 **/cred
 **/venv
+**/pdtvenv
 .venv
 .DS_Store
 pdt-venv
